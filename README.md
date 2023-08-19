@@ -1,6 +1,6 @@
 # youta_ohshima
 
-<h1 align="center">Hi 👋, I'm youta ohshima</h1>
+<h1 align="center">Hi 👋, I'm youta_ohshima</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
