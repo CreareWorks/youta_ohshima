@@ -4,7 +4,7 @@
 
 ## 🌟 Recent Notable Contribution
 <a href="https://github.com/laravel/framework/pull/57881" target="_blank">
-  <img src="https://img.shields.io/badge/Laravel-Contribution PR-3E72BC" alt="Laravel Framework PR #57881" />
+  <img src="https://img.shields.io/badge/Laravel%20Contribution%20PR-57881-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Framework PR #57881" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
