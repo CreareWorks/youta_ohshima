@@ -4,7 +4,7 @@
 
 ## 🌟 Recent Notable Contribution
 <a href="https://github.com/laravel/framework/pull/57881" target="_blank">
-  <img src="https://img.shields.io/badge/Laravel%20Framework%20PR%20#57881-Fix%20CallQueuedClosure::displayName%20after%20batch%20chain-blue?style=flat-square&logo=github" alt="Laravel Framework PR #57881" />
+  <img src="https://img.shields.io/badge/Laravel-Contribution PR-3E72BC" alt="Laravel Framework PR #57881" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
